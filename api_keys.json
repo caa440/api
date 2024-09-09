@@ -1,0 +1,12 @@
+{
+  "key1": {
+    "maxAttackTime": 200,
+    "maxConcurrentAttacks": 3,
+    "powersaving": true
+  },
+  "key2": {
+    "maxAttackTime": 300,
+    "maxConcurrentAttacks": 1,
+    "powersaving": false
+  }
+}

